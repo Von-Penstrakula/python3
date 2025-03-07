@@ -1,2 +1,3 @@
 # python3
-básico de Python3 no Linux Mint
+básico de Python 3 no Linux Mint
+
